@@ -194,5 +194,25 @@ On either router, you can use the `show ip route` command to see the routing tab
 
 <!-- end list -->
 
+---
+
+## 7. Supporting Files
+
+This project includes the following additional files:
+
+*   `Branch Office Network.pkt`: The Cisco Packet Tracer project file.
+*   `connection addresses.xlsx`: An Excel file with connection addresses.
+*   `PC Ping details.xlsx`: An Excel file with PC ping details.
+*   Screenshots:
+    *   `Screenshot 2025-10-21 132524.png`
+    *   `Screenshot 2025-10-21 132558.png`
+    *   `Screenshot 2025-10-21 132645.png`
+    *   `Screenshot 2025-10-21 132737.png`
+    *   `Screenshot 2025-10-21 132841.png`
+    *   `Screenshot 2025-10-21 133004.png`
+    *   `Screenshot 2025-10-21 133256.png`
+    *   `Screenshot 2025-10-21 133353.png`
+    *   `Screenshot 2025-10-21 133426.png`
+    *   `Screenshot 2025-10-21 133556.png`
 ```
 ```
