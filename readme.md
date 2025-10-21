@@ -214,5 +214,3 @@ This project includes the following additional files:
     *   `Screenshot 2025-10-21 133353.png`
     *   `Screenshot 2025-10-21 133426.png`
     *   `Screenshot 2025-10-21 133556.png`
-```
-```
